@@ -38,7 +38,7 @@ Slicers, and Charts on the Superstore Sales dataset (9,994 orders).
 
 
 
-![Years].(Yesr.png)
+![Years].(Year.png)
 
 
 
