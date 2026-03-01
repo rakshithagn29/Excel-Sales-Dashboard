@@ -21,8 +21,28 @@ Slicers, and Charts on the Superstore Sales dataset (9,994 orders).
 
 ## Dashboard Preview
 ![Dashboard](Dashboard.png)
+
+
+
+
+
 ![West Region](West Region.png)
+
+
+
+
+
 ![Technology](Technology.png)
+
+
+
+
+
+![Years].(Yesr.png)
+
+
+
+
 
 
 ## Dataset Source
